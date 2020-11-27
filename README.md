@@ -24,7 +24,7 @@ the mic input volume, but doing this has several shortcomings:
 - You will be asked to mute in meetings (because you are seen as unmuted)
 - Admins in the meetings will mute you (they don't know about your awesome
   global volume muting)
-- Some apps (eg. Google Meet) think your mic is not working when muted and will constantly hassle you 
+- Some apps (eg. Google Meet) think your mic is not working when muted and will complain about the mic 
 - You need to configure a global shortcut so unmuting by accident can easily
   happen if you don't choose a really complicated hotkey
 
