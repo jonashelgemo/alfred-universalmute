@@ -45,7 +45,7 @@ command or option).
 - Google Meet (Chrome, Chrome canary, Firefox, Safari, Vivaldi) 
 - Skype for Business 
 
-Adding support for more apps is a breeze, PRs welcome!
+Adding support for more apps is a breeze, feel free to request support for more apps and PRs welcome!
 
 ## Commands
 Selected hotkeys will toggle mute/unmute in supported apps when app window is in focus 
