@@ -15,7 +15,7 @@ Alfred App Workflow for muting videoconferencing apps with the same hotkeys acro
 ## About
 After working from home became the norm, my day consists of meetings in a myriad
 of different videoconferencing apps. Muting the mic has become an essential
-skill in this new world. I'm not really a fan of using the mouse for this, keyboard shortcuts are great for these tasks.  
+skill in this new world. I'm not really a fan of using the mouse for this, keyboard shortcuts are great for these tasks.
 
 There are [exellent solutions](https://mutify.app) for muting and unmuting you mic globally using
 the mic input volume, but doing this has several shortcomings:
@@ -44,6 +44,7 @@ command or option).
 - Slack App 
 - Google Meet (Chrome, Chrome canary, Firefox, Safari, Vivaldi) 
 - Skype for Business 
+- Microsoft Teams
 
 Adding support for more apps is a breeze, feel free to request support for more apps and PRs welcome!
 
