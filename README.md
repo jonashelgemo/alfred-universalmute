@@ -45,6 +45,7 @@ command or option).
 - Google Meet (Chrome, Chrome canary, Firefox, Safari, Vivaldi) 
 - Skype for Business 
 - Microsoft Teams
+- Amazon Chime
 
 Adding support for more apps is a breeze, feel free to request support for more apps and PRs welcome!
 
