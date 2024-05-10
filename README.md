@@ -1,4 +1,4 @@
-Universal Mute ([Download v1.0](https://raw.github.com/helgeblod/alfred-universalmute/main/universalmute.alfredworkflow))
+Universal Mute ([Download v1.1](https://raw.github.com/helgeblod/alfred-universalmute/main/universalmute.alfredworkflow))
 =====================
 
 Alfred App Workflow for muting videoconferencing apps with the same hotkeys across apps. 
