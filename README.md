@@ -4,7 +4,7 @@ Universal Mute ([Download v1.0](https://raw.github.com/helgeblod/alfred-universa
 Alfred App Workflow for muting videoconferencing apps with the same hotkeys across apps. 
 
 ## Requirements
-1. [Alfred App v4](http://www.alfredapp.com/#download)
+1. [Alfred App v5](http://www.alfredapp.com/#download)
 1. [Alfred Powerpack](https://buy.alfredapp.com/)
 
 ## Installing
@@ -44,7 +44,8 @@ command or option).
 - Slack App 
 - Google Meet (Chrome, Chrome canary, Firefox, Safari, Vivaldi) 
 - Skype for Business 
-- Microsoft Teams
+- Microsoft Teams (original)
+- Microsoft Teams (2024)
 - Amazon Chime
 
 Adding support for more apps is a breeze, feel free to request support for more apps and PRs welcome!
