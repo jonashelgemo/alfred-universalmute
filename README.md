@@ -55,3 +55,4 @@ Selected hotkeys will toggle mute/unmute in supported apps when app window is in
 
 ## Contributors
 - [@helgeblod](https://github.com/helgeblod)
+- [@allisonacs](https://github.com/allisonacs)
